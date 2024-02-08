@@ -1,0 +1,26 @@
+<resources>
+    <string-array name="num_dice_spinner_entries">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="app_name">lab01</string>
+    <string name="roll">Roll!</string>
+    <string name="rolling">Roll!</string>
+    <string name="confirm">Confirm</string>
+    <string name="allow_dice_hold">Allow dice hold</string>
+    <string name="number_of_dice">Number of dice</string>
+    <string name="player_d">player %d</string>
+    <string name="click_start">Click start</string>
+    <string name="button">Button</string>
+    <string name="settings_menu_label">Settings</string>
+    <string name="num_dice_key" />
+    <string name="hold_enable_key" />
+    <string name="player_label_format" >Player %d</string>
+    <string name="button_initial" />
+    <string name="click_roll" />
+    <string name="button_enabled" />
+    <string name="second_start" />
+    <string name="rolled_msg" />
+</resources>
